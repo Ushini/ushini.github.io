@@ -1,3 +1,6 @@
-## Hello this is my second post
+---
+layout: post
+title: Second post
+---
 
-:)
+## well hello world
