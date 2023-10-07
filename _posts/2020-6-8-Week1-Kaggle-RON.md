@@ -10,6 +10,8 @@ published: true
 
 ### Recreate the sketch below
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/872015593?h=0f4d2f784e" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 Your task is to design an unconventional clock. You have complete freedom to interpret "unconventional clock" however you'd like. The only requirement is that your design must change over time somehow. The code template I have provided already stores the second() value of the clock in the sec variable, the minute() value of the clock in the min variable and the hour() value of the clock in the hr variable.
 
 It's ok if everything doesn't work perfectly
