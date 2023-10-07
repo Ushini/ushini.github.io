@@ -26,8 +26,8 @@ Your first task is to recreate the sketch below. There are two videos below, sho
 
 ## Activity E (25 min)
 
-I have provided two sketches which contain some pre-written code; sketch1.js and sketch2.js. Your task is to select one of these sketches and make your modifications to it. You can make as many variations to the sketch as you'd like. You should aim to make at least one variation of the sketch which has been provided.
+You have been provided some code in your editor. Your task is to make as many variations to the sketch as you'd like. You should aim to make at least one variation of the sketch which has been provided. You should aim to make your visuals _"expressive"_ using colour, animation, interaction and/or any other technique. "Expressive" means to make someone feel an emotion.
 
 - Your modifications can be as "big" or "small" as you'd like.
 - You are free to make any changes you'd like to the code.
-- If you finish making your variations before the 25 minutes have ended, that's all good. You can take another break
+- If you finish making your variations before the 25 minutes have ended, that's all good. You can take another break :)
